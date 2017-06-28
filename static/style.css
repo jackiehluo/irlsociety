@@ -1,0 +1,30 @@
+.container {
+    font-family: "garamond-premier-pro-display";
+}
+
+.header {
+    text-align: center;
+    margin-top: 20%;
+}
+
+.subscription-form {
+    margin: 40px 0;
+}
+
+.subscription-form .email {
+    padding: 8px;
+    background: transparent;
+    border: 0;
+    border-bottom: 1px solid black;
+    outline: 0;
+    font-family: "garamond-premier-pro-display";
+    font-size: 18px;
+}
+
+.subscription-form .submit-button {
+    margin-top: 10px;
+    background: transparent;
+    border: 0;
+    font-family: "garamond-premier-pro-display";
+    font-size: 14px;
+}
